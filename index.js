@@ -1,6 +1,7 @@
 'use strict'
 
 function add(a, b) {
+  a += 10
   return a + b
 }
 
