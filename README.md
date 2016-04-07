@@ -1,7 +1,11 @@
 # minty-example
 
 [Minty](https://github.com/lumpy-turnips/minty) is an awesome visualizer for your Node program's
-flow. Example program
+flow. 
+
+![minty example](minty-example.gif)
+
+## Example program
 
 ```js
 // index.js
